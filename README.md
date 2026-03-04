@@ -8,44 +8,44 @@
 
 ### 🟢 Beginner Level
 
-| Course | Description | Price |
-|--------|-------------|-------|
-| [AI Prompt Bundle](./beginner/ai-prompt-bundle/) | 40+ premium prompts for ChatGPT, Midjourney, Claude | $15-25 |
-| [Mega Image Prompts Nano](./beginner/mega-image-prompts-nano/) | 100 quick image generation prompts | $14 |
-| [Midjourney Nano](./beginner/midjourney-nano/) | 50 quick Midjourney prompts | $14 |
-| [Digital Planner Bundle](./beginner/digital-planner-bundle/) | 20+ PDF planners | $12-24 |
-| [Canva Template Bundle](./beginner/canva-template-bundle/) | 200+ templates | $14-49 |
+| Course | Description | Price | GitHub |
+|--------|-------------|-------|--------|
+| AI Prompt Bundle | 40+ premium AI prompts | $15-25 | [Link](https://github.com/muyinzad/ai-prompt-bundle-etsy) |
+| Mega Image Prompts Nano | 100 quick prompts | $14 | [Link](https://github.com/muyinzad/mega-image-prompts-nano) |
+| Midjourney Nano | 50 quick prompts | $14 | [Link](https://github.com/muyinzad/midjourney-nano) |
+| Digital Planner Bundle | 20+ PDF planners | $ [Link](https12-24 |://github.com/muyinzad/digital-planner-bundle) |
+| Canva Template Bundle | 200+ templates | $14-49 | [Link](https://github.com/muyinzad/canva-template-bundle) |
 
 ### 🟡 Intermediate Level
 
-| Course | Description | Price |
-|--------|-------------|-------|
-| [Ethical Hacking Course](./intermediate/ethical-hacking-course/) | Cybersecurity fundamentals | $47-197 |
-| [AI Cybersecurity Course](./intermediate/ai-cybersecurity-course/) | AI-powered security | $67-247 |
-| [AI Automation Mastery](./intermediate/ai-automation-mastery/) | Zapier, AI Agents, Automation | $67-247 |
-| [Faceless YouTube Automation](./intermediate/faceless-youtube-automation/) | AI video creation | $67-247 |
-| [Notion Templates MEGA](./intermediate/notion-templates-mega/) | 200+ Notion templates | $19-97 |
-| [Faceless YouTube Scripts MEGA](./intermediate/faceless-youtube-scripts-mega/) | 500+ YouTube scripts | $19-79 |
-| [Complete Marketing Bundle](./intermediate/complete-marketing-bundle/) | All-in-one marketing | $147-297 |
-| [E-commerce Empire Bundle](./intermediate/ecommerce-empire-bundle/) | E-commerce mastery | $147-297 |
+| Course | Description | Price | GitHub |
+|--------|-------------|-------|--------|
+| Ethical Hacking Course | Cybersecurity fundamentals | $47-197 | [Link](https://github.com/muyinzad/ethical-hacking-course) |
+| AI Cybersecurity Course | AI-powered security | $67-247 | [Link](https://github.com/muyinzad/ai-cybersecurity-course) |
+| AI Automation Mastery | Zapier, AI Agents | $67-247 | [Link](https://github.com/muyinzad/ai-automation-mastery) |
+| Faceless YouTube Automation | AI video creation | $67-247 | [Link](https://github.com/muyinzad/faceless-youtube-automation) |
+| Notion Templates MEGA | 200+ templates | $19-97 | [Link](https://github.com/muyinzad/notion-templates-mega) |
+| Faceless YouTube Scripts MEGA | 500+ scripts | $19-79 | [Link](https://github.com/muyinzad/faceless-youtube-scripts-mega) |
+| Complete Marketing Bundle | All-in-one marketing | $147-297 | [Link](https://github.com/muyinzad/complete-marketing-bundle) |
+| E-commerce Empire Bundle | E-commerce mastery | $147-297 | [Link](https://github.com/muyinzad/ecommerce-empire-bundle) |
 
 ### 🔴 Advanced Level
 
-| Course | Description | Price |
-|--------|-------------|-------|
-| [Advanced AI Hacking Course](./advanced/advanced-ai-hacking-course/) | Advanced AI exploits | $147-447 |
-| [Prompt Injection Course](./advanced/prompt-injection-course/) | LLM security | $47-197 |
-| [Professional Prompt Library](./advanced/professional-prompt-library/) | 1000+ AI prompts | $29-147 |
-| [Midjourney Master Library](./advanced/midjourney-master-library/) | 500+ visual prompts | $29-147 |
-| [Mega Image Prompts Bundle](./advanced/mega-image-prompts-bundle/) | 1000+ prompts | $29-147 |
+| Course | Description | Price | GitHub |
+|--------|-------------|-------|--------|
+| Advanced AI Hacking Course | Advanced AI exploits | $147-447 | [Link](https://github.com/muyinzad/advanced-ai-hacking-course) |
+| Prompt Injection Course | LLM security | $47-197 | [Link](https://github.com/muyinzad/prompt-injection-course) |
+| Professional Prompt Library | 1000+ AI prompts | $29-147 | [Link](https://github.com/muyinzad/professional-prompt-library) |
+| Midjourney Master Library | 500+ visual prompts | $29-147 | [Link](https://github.com/muyinzad/midjourney-master-library) |
+| Mega Image Prompts Bundle | 1000+ prompts | $29-147 | [Link](https://github.com/muyinzad/mega-image-prompts-bundle) |
 
 ### 👑 Premium Bundles
 
-| Bundle | Contents | Price |
-|--------|----------|-------|
-| [Ultimate Empire Bundle](./ultimate-empire-bundle/) | 27 products combined | **$497** |
-| [YouTube Creator Empire](./youtube-creator-empire/) | YouTube system | $47-297 |
-| [Agency Bundle](./agency-bundle/) | Agency system | $97-497 |
+| Bundle | Description | Price | GitHub |
+|--------|-------------|-------|--------|
+| Ultimate Empire Bundle | 27 products combined | **$497** | [Link](https://github.com/muyinzad/ultimate-empire-bundle) |
+| YouTube Creator Empire | YouTube system | $47-297 | [Link](https://github.com/muyinzad/youtube-creator-empire) |
+| Agency Bundle | Agency system | $97-497 | [Link](https://github.com/muyinzad/agency-bundle) |
 
 ---
 
@@ -55,16 +55,6 @@
 - **Beginner → Advanced** progression
 - **$4,500+ Total Value**
 - **$497 Ultimate Bundle Price**
-
----
-
-## 📦 Each Course Includes
-
-- 📚 Comprehensive course materials
-- 💻 Code examples & templates
-- 📖 Setup guides
-- 🎯 Practical exercises
-- 🏆 Certificate of completion
 
 ---
 
@@ -79,12 +69,13 @@
 
 ---
 
-## 🔗 GitHub Repos
+## 📦 Each Course Includes
 
-- Ethical Hacking: https://github.com/muyinzad/ethical-hacking-course
-- AI Cybersecurity: https://github.com/muyinzad/ai-cybersecurity-course
-- AI Automation: https://github.com/muyinzad/ai-automation-mastery
-- And more...
+- 📚 Comprehensive course materials
+- 💻 Code examples & templates
+- 📖 Setup guides
+- 🎯 Practical exercises
+- 🏆 Certificate of completion
 
 ---
 
